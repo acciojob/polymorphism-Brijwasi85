@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
         Product p=new Product();
-        System.out.println(p.product(10,50));
+        System.out.println(p.product(50,60));
         System.out.println(p.product(5,10, 20));
         System.out.println(p.product(5.18,70.56));
 
